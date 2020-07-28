@@ -44,17 +44,17 @@ Features: Description of symptoms, steps to wash hands, daily statistics, helpli
 ## Screenshots: 
 
 1. Landing Screen
-<div  style="width:300px;height:350px;"><img src='assets/images/landing.jpeg'></div>
+<div  style="width:300px;height:350px;"><img src='assets/images/landing.jpg'></div>
 
 2. First Screen: Symtopms
-<div style="width:300px;height:350px;"><img src='assets/images/opt_1.jpeg'></div>
+<div style="width:300px;height:350px;"><img src='assets/images/opt_1.jpg'></div>
 
 3. Second Screen: Steps to wash hands
-<div style="width:300px;height:350px;"><img src='assets/images/opt_2.jpeg'></div>
+<div style="width:300px;height:350px;"><img src='assets/images/opt_2.jpg'></div>
 
 4. Third Screen: Covid-19 live count
-<div style="width:300px;height:350px;"><img src='assets/images/opt_3.jpeg'></div>
+<div style="width:300px;height:350px;"><img src='assets/images/opt_3.jpg'></div>
 
 5. Fourth Screen: Helpline numbers
-<div style="width:300px;height:350px;"><img src='assets/images/opt_4.jpeg'></div>
+<div style="width:300px;height:350px;"><img src='assets/images/opt_4.jpg'></div>
 
