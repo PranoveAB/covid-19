@@ -18,10 +18,10 @@ from urllib.request import Request, urlopen
 
 req = Request('https://www.worldometers.info/coronavirus/', headers={'User-Agent': 'Mozilla/5.0'})
 source = urlopen(req).read()
-soup = bs.BeautifulSoup(source,'lxml')
+beausoup = bs.BeautifulSoup(source,'lxml')
 
 
-table = soup.table
+table = beausoup.table
 
 table_rows = table.find_all('tr')
 table_data = table.find_all('td')
